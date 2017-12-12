@@ -3,7 +3,7 @@
 Sort ES6 imports for JavaScript and TypeScript automatically.
 Ported from the [atom-import-sort](https://atom.io/packages/atom-import-sort) package by [Renke Grunwald](https://github.com/renke).
 
-![Sort Example](http://i.imgur.com/XEzc7EU.gif)
+![Sort Example]
 
 ## Features
 

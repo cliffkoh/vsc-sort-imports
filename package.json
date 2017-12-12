@@ -1,25 +1,25 @@
 {
-  "name": "sort-imports",
-  "displayName": "sort-imports",
+  "name": "sort-imports-grab",
+  "displayName": "sort-imports (GrabMobile edition)",
   "description": "Sort ES6 imports automatically.",
-  "version": "4.0.0",
+  "version": "4.1.0-grab",
   "galleryBanner": {
     "color": "#2980b9",
     "theme": "dark"
   },
   "bugs": {
-    "url": "https://github.com/amatiasq/vsc-sort-imports/issues"
+    "url": "https://github.com/cliffkoh/vsc-sort-imports/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amatiasq/vsc-sort-imports.git"
+    "url": "https://github.com/cliffkoh/vsc-sort-imports.git"
   },
   "icon": "assets/logo.png",
-  "publisher": "amatiasq",
+  "publisher": "cliffkoh",
   "engines": {
     "vscode": "^1.6.0"
   },
-  "homepage": "https://github.com/amatiasq/vsc-sort-imports/blob/master/README.md",
+  "homepage": "https://github.com/cliffkoh/vsc-sort-imports/blob/master/README.md",
   "license": "ISC",
   "categories": [
     "Languages",
