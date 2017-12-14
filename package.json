@@ -72,7 +72,7 @@
         "sort-imports.default-sort-style": {
           "type": "string",
           "default": "module-scoped",
-          "description": "Default sorting style."
+          "description": "Default sorting style. Options are eslint, module, module-scoped, module-compact."
         },
         "sort-imports.languages": {
           "type": "array",
@@ -93,7 +93,7 @@
   "devDependencies": {
     "@types/node": "^6.0.46",
     "typescript": "^2.0.6",
-    "vscode": "^1.0.3"
+    "vscode": "^1.1.10"
   },
   "dependencies": {
     "import-sort": "4.2.0",
@@ -103,6 +103,6 @@
     "import-sort-style-eslint": "^4.0.0",
     "import-sort-style-module": "^4.0.0",
     "import-sort-style-module-compact": "^1.0.0",
-    "import-sort-style-module-scoped": "^1.0.1"
+    "import-sort-style-module-scoped": "^1.0.2"
   }
 }
